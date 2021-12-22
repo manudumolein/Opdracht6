@@ -1,0 +1,1 @@
+cmd_/home/pi/lessen/Opdracht6/uitbereiding/modules.order := {   echo /home/pi/lessen/Opdracht6/uitbereiding/opdracht6U.ko; :; } | awk '!x[$$0]++' - > /home/pi/lessen/Opdracht6/uitbereiding/modules.order

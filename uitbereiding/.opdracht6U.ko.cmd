@@ -1,0 +1,1 @@
+cmd_/home/pi/lessen/Opdracht6/uitbereiding/opdracht6U.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/lessen/Opdracht6/uitbereiding/opdracht6U.ko /home/pi/lessen/Opdracht6/uitbereiding/opdracht6U.o /home/pi/lessen/Opdracht6/uitbereiding/opdracht6U.mod.o;  true
